@@ -2,11 +2,15 @@
 
 This week, I submitted my _first_ TEI (Text Encoding Initiative) assignment, and I was pleasantly surprised at how easy it was! I was assigned to encode page 648 column two of [“The Yellow Wall-paper” by Charlotte Perkins Stetson](https://www.nlm.nih.gov/exhibition/theliteratureofprescription/exhibitionAssets/digitalDocs/The-Yellow-Wall-Paper.pdf). I had read this short story before in one of my previous English courses, so I was already familiar with the piece. In that course, we talked about the way women were treated at this time, both medically and in a more general sense. We also talked about women’s mental health and hysteria at the time when the short story was written. The narrator’s decline into madness is haunting and hard to forget. I found it so interesting, and I enjoyed getting the opportunity to read it again. However, this time I also got to engage with the text in a different way! In the past, I only had the chance to analyze the text, which is fairly normal for an English major. With this assignment, though, I also got to attempt to encode it.
 
+![picture of page 648 of "The Yellow Wall-Paper" by Charlotte Perkins Stetson](https://camzkaiser.github.io/camzkaiser/images/yellowwallpaper.jpg)
+
 When I started working on my TEI coding assignment earlier this week, I felt overwhelmed at first. I got lost in the rainbow of text and tags on the Oxygen XML editor. I didn’t know where or how to start. I didn’t even know what TEI would entail! After Dr. Stover walked the class through the basics of TEI, I felt more comfortable. I completed the first steps of the assignment alongside Dr. Stover and my peers and my anxiety surrounding TEI drifted away. I also felt comforted by the odd familiarity of this code. I started to wonder why I felt as though I knew what I was doing.
 
 Then it hit me. Back in the Fall semester of 2018, I took an introductory level computer science course. In that course, I learned how to code a website using html. This TEI coding assignment reminded me of that experience because the use of tags and the format of the code are like html. This made me feel even _more_ comfortable completing this assignment than I had originally expected.
 
 Something that made this coding experience even easier was the way I was instructed to use the google document before beginning my code. Dr. Stover told the class to annotate the google document with markers for paragraphs, em-dashes, and quotes. After doing this, I no longer had to worry about anything other than copy and pasting the passage in with the right code. I felt fully prepared to take on this assignment!
+
+![picture of Camille's TEI Code](https://camzkaiser.github.io/camzkaiser/images/oxygenscreenschot.jpg)
 
 This past Friday morning, I sat down with my annotated google document, my key with all of the tags my section required, and a cup of coffee. Within fifteen minutes, I was already done. This felt like quite a feat after overcoming my coding anxiety! I had gone from feeling overwhelmed by this assignment to completing it with ease, opening and closing tags and watching the little green box validate my efforts the whole way through.
 
