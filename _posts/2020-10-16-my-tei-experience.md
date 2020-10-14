@@ -10,7 +10,7 @@ Then it hit me. Back in the Fall semester of 2018, I took an introductory level 
 
 Something that made this coding experience even easier was the way I was instructed to use the google document before beginning my code. Dr. Stover told the class to annotate the google document with markers for paragraphs, em-dashes, and quotes. After doing this, I no longer had to worry about anything other than copy and pasting the passage in with the right code. I felt fully prepared to take on this assignment!
 
-![picture of Camille's TEI Code](https://camzkaiser.github.io/camzkaiser/images/oxygenscreenschot.jpg)
+![picture of Camille's TEI Code](https://camzkaiser.github.io/camzkaiser/images/oxygenscreenshot.jpg)
 
 This past Friday morning, I sat down with my annotated google document, my key with all of the tags my section required, and a cup of coffee. Within fifteen minutes, I was already done. This felt like quite a feat after overcoming my coding anxiety! I had gone from feeling overwhelmed by this assignment to completing it with ease, opening and closing tags and watching the little green box validate my efforts the whole way through.
 
