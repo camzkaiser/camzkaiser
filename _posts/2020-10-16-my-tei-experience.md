@@ -1,4 +1,4 @@
-# My First TEI Experience Went like...
+# A Litte About My First TEI Experience
 
 This week, I submitted my first TEI (Text Encoding Initiative) assignment, and I was pleasantly surprised at how easy it was! I was assigned to encode page 648 column two of “The Yellow Wall-paper” by Charlotte Perkins Stetson. I had read this short story before in one of my previous English courses, so I was already familiar with the piece. In that course, we talked about the way women were treated at this time, both medically and in a more general sense. We also talked about women’s mental health and hysteria at the time when the short story was written. The narrator’s decline into madness is haunting and hard to forget. I found it so interesting, and I enjoyed getting the opportunity to read it again. However, this time I also got to engage with the text in a different way! In the past, I only had the chance to analyze the text, which is fairly normal for an English major. With this assignment, though, I also got to attempt to encode it.
 
