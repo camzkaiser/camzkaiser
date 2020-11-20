@@ -1,4 +1,4 @@
-#Grant Process: Part One
+#Grant Process Part One
 
 Applying for a grant can be intimidating. There are so many steps and requirements that can scare off beginners like myself. However, this mock-grant application project has helped me learn more about the process. I know I still have a lot to learn, but this experience has made the grant application process feel less daunting!
 
