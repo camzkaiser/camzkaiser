@@ -13,6 +13,8 @@ I didn't think this project would require much research on my part. I assumed th
 
 After a couple of emails back and forth with Dr. Stover, I learned a lot about my project itself. Though the podcast focuses on Shakespeare and other digital humanities projects, I have to focus on how to make this podcast successful in its educational mission. This presented an unexpected learning curve for me in the early stages of the project. I still have a lot of work to do, but after talking to Dr. Stover about this, I feel much better about where I am in my project!
 
+![screenshot of Camille's tweet from November thirteenth that describes her challanging experience working on her environmental scan](https://camzkaiser.github.io/camzkaiser/images/grantblogonetweet.jpg)
+
 In my research stage, I also found Folger’s podcast _Shakespeare Unlimited_. As a Shakespeare student, I had to listen to an episode of this podcast, and I realized that their podcast is similar to my project idea. Folger invites Shakespeare scholars to be guests on each episode. The host and the guest then talk about various issues in relation to Shakespeare's works.
 
 The episode I had to listen to featured Keith Hamilton Cobb. The host interviewed him about his new play, _American Moor_. This play is about an African-American man auditioning for a production of Shakespeare's _Othello_. In the interview with Cobb, the podcast is able to explore the topic of race in relation to _Othello_ and within the American context. The conversation between the host and Cobb is both meaningful and eye-opening. I thought it was very interesting and engaging as a student!
